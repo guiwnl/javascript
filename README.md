@@ -1,2 +1,7 @@
+![GitHub License](https://img.shields.io/github/license/guiwnl/javascript)
+
 # javascript
-tutorial do javascript
+tutorial de logíca de programação javascript
+
+## Autor
+guilherme santos
